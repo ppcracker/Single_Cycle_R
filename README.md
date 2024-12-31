@@ -1,1 +1,1 @@
-# RISC_V-Single-Cycle-
+# RISC_V-Single-Cycle
