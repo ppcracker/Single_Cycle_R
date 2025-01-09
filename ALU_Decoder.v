@@ -1,4 +1,4 @@
-module alu_decoder(ALUOp, function3, function7, Op5, ALUControl);
+module Alu_Decoder(ALUOp, function3, function7, Op5, ALUControl);
 
 input  [2:0]function3; 
 input [1:0] ALUOp;
